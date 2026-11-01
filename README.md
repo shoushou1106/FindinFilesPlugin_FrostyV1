@@ -1,7 +1,7 @@
-### This plugin is still under development.
+> [!NOTE]
+> Work in progess. The project is on hold.
 
-
-# Frosty Find in Files Plugin
+# Find in Files Plugin for Frosty v1
 A plugin for [Frosty Toolsuite v1](https://github.com/CadeEvs/FrostyToolsuite) to find in files 
 
 ## Install
