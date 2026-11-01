@@ -13,8 +13,6 @@ Download from [GitHub Release](https://github.com/shoushou1106/FrostyFindinFiles
 - [x] Ebx - Search All
 - [x] Ebx - Indexing
 - [ ] Ebx - Search in
-- [ ] Res
-- [ ] Chunk
 - [ ] Bundle
 
 *There are a lot of things I can't do. Plz help me if you want. Any contributions are welcome.*
