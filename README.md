@@ -2,7 +2,7 @@
 > Work in progess. The project is on hold.
 
 # Find in Files Plugin for Frosty v1
-A plugin for [Frosty Toolsuite v1](https://github.com/CadeEvs/FrostyToolsuite) to find in files 
+Editor only plugin for [Frosty Toolsuite v1](https://github.com/CadeEvs/FrostyToolsuite) to find in files 
 
 ## Install
 Download from [GitHub Release](https://github.com/shoushou1106/FrostyFindinFilesPlugin/releases) and put the .dll file in `Plugins` folder under **FrostyEditor**.
